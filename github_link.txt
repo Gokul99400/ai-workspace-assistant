@@ -1,0 +1,11 @@
+GitHub Repository:
+https://github.com/<your-username>/ai-workspace-assistant
+
+Replace <your-username> with your GitHub username after pushing the project.
+
+Steps to push:
+1. git init
+2. git add .
+3. git commit -m "Initial commit: AI Workspace Assistant"
+4. git remote add origin https://github.com/<your-username>/ai-workspace-assistant.git
+5. git push -u origin main
