@@ -1,0 +1,101 @@
+Task Name,Owner,Start Date,End Date,Project Name,Priority,Status
+Create Dashboard Dashboard,Gokul,2026-04-11,2026-04-21,ERP Upgrade,Medium,Completed
+Configure Dashboard Settings,Priya,2026-03-15,2026-03-18,AI Module,Medium,Completed
+Review Notification Code,Gokul,2026-05-19,2026-06-04,AI Module,High,To Do
+Review Payment Code,Rahul,2026-03-31,2026-04-25,Cloud Migration,High,In Progress
+Fix Search Bug,Arjun,2026-03-24,2026-03-29,Mobile App,Medium,In Progress
+Implement Export Feature,Divya,2026-03-16,2026-04-11,AI Module,Medium,In Progress
+Integrate Dashboard Api,Karthik,2026-04-17,2026-05-16,CRM System,Low,Completed
+Refactor Cache Logic,Divya,2026-03-19,2026-03-23,AI Module,High,Completed
+Analyze Search Data,Priya,2026-03-23,2026-04-07,Cloud Migration,High,In Progress
+Optimize Analytics Performance,Divya,2026-04-25,2026-05-04,Mobile App,Medium,In Progress
+Configure Cache Settings,Priya,2026-04-01,2026-04-21,AI Module,Low,Completed
+Test Payment Component,Karthik,2026-04-08,2026-05-02,Data Pipeline,Low,In Progress
+Setup Scheduler Environment,Gokul,2026-04-20,2026-05-05,Mobile App,High,In Progress
+Implement Notification Feature,Divya,2026-05-13,2026-05-28,Mobile App,Low,To Do
+Migrate Cache Database,Meena,2026-03-28,2026-04-07,Mobile App,Medium,In Progress
+Configure Settings Settings,Karthik,2026-04-26,2026-05-06,AI Module,Medium,Completed
+Integrate Payment Api,Priya,2026-03-25,2026-04-01,Cloud Migration,High,Completed
+Analyze Analytics Data,Karthik,2026-04-29,2026-05-14,AI Module,High,Completed
+Optimize Profile Performance,Rahul,2026-03-25,2026-04-18,AI Module,High,In Progress
+Analyze Analytics Data,Divya,2026-05-05,2026-05-13,CRM System,Medium,In Progress
+Design Backup Module,Rahul,2026-05-14,2026-05-20,AI Module,High,To Do
+Setup Analytics Environment,Rahul,2026-05-14,2026-06-05,Cloud Migration,Low,To Do
+Review Report Code,Divya,2026-05-19,2026-06-15,Cloud Migration,High,To Do
+Migrate Profile Database,Gokul,2026-05-12,2026-05-15,AI Module,Medium,To Do
+Implement Cache Feature,Divya,2026-04-10,2026-04-14,Cloud Migration,Medium,Completed
+Migrate Settings Database,Priya,2026-05-12,2026-06-10,CRM System,Low,To Do
+Implement Scheduler Feature,Arjun,2026-05-10,2026-05-30,Mobile App,Low,To Do
+Deploy Profile Service,Karthik,2026-04-05,2026-04-30,Mobile App,Low,In Progress
+Update Analytics Documentation,Divya,2026-05-07,2026-05-13,Web Portal,Low,To Do
+Review Dashboard Code,Divya,2026-05-20,2026-05-30,CRM System,Low,To Do
+Refactor Notification Logic,Gokul,2026-03-18,2026-03-28,CRM System,Low,Completed
+Migrate Login Database,Divya,2026-04-10,2026-04-21,CRM System,Low,In Progress
+Review Profile Code,Arjun,2026-05-10,2026-05-20,ERP Upgrade,Low,In Progress
+Analyze Authentication Data,Sneha,2026-05-05,2026-05-19,CRM System,High,In Progress
+Update Payment Documentation,Gokul,2026-03-23,2026-03-27,ERP Upgrade,Low,In Progress
+Configure Export Settings,Priya,2026-04-04,2026-04-24,Mobile App,High,In Progress
+Test Authentication Component,Arjun,2026-04-11,2026-05-11,Data Pipeline,Medium,To Do
+Optimize Scheduler Performance,Priya,2026-05-19,2026-06-17,CRM System,Low,To Do
+Design Dashboard Module,Sneha,2026-05-12,2026-05-30,Mobile App,Medium,To Do
+Review Api Code,Karthik,2026-04-28,2026-05-01,CRM System,High,In Progress
+Deploy Cache Service,Meena,2026-05-12,2026-05-19,Data Pipeline,Medium,To Do
+Review Search Code,Sneha,2026-05-19,2026-05-23,CRM System,Low,To Do
+Configure Export Settings,Gokul,2026-05-11,2026-05-30,CRM System,Low,To Do
+Migrate Api Database,Arjun,2026-03-21,2026-04-20,CRM System,Low,Completed
+Implement Settings Feature,Priya,2026-05-01,2026-05-07,ERP Upgrade,High,Completed
+Refactor Settings Logic,Gokul,2026-05-03,2026-05-27,AI Module,High,Completed
+Refactor Profile Logic,Divya,2026-04-20,2026-04-30,Data Pipeline,High,In Progress
+Update Report Documentation,Rahul,2026-03-20,2026-03-23,Web Portal,Medium,In Progress
+Refactor Settings Logic,Priya,2026-04-07,2026-04-26,CRM System,Low,In Progress
+Test Cache Component,Divya,2026-04-27,2026-05-09,CRM System,High,Completed
+Optimize Api Performance,Rahul,2026-05-17,2026-05-20,AI Module,Low,To Do
+Create Api Dashboard,Rahul,2026-03-28,2026-04-08,ERP Upgrade,High,Completed
+Migrate Dashboard Database,Arjun,2026-04-06,2026-05-01,Data Pipeline,Medium,In Progress
+Review Analytics Code,Rahul,2026-04-12,2026-05-12,AI Module,Medium,To Do
+Implement Analytics Feature,Karthik,2026-03-16,2026-03-19,Cloud Migration,Medium,In Progress
+Analyze Report Data,Rahul,2026-05-06,2026-05-26,Mobile App,Low,Completed
+Update Profile Documentation,Gokul,2026-03-30,2026-04-19,CRM System,High,Completed
+Setup Export Environment,Arjun,2026-03-16,2026-03-28,Web Portal,High,In Progress
+Migrate Cache Database,Gokul,2026-04-11,2026-05-05,Data Pipeline,High,Completed
+Fix Scheduler Bug,Karthik,2026-03-30,2026-04-09,AI Module,Low,Completed
+Analyze Scheduler Data,Arjun,2026-04-02,2026-04-28,Web Portal,High,In Progress
+Analyze Cache Data,Karthik,2026-04-11,2026-04-22,Cloud Migration,Low,Completed
+Analyze Backup Data,Priya,2026-05-10,2026-05-20,Web Portal,High,To Do
+Setup Cache Environment,Meena,2026-04-09,2026-04-19,Data Pipeline,Medium,Completed
+Create Notification Dashboard,Karthik,2026-03-19,2026-04-15,Data Pipeline,Medium,In Progress
+Fix Analytics Bug,Karthik,2026-04-22,2026-04-25,ERP Upgrade,Low,Completed
+Migrate Search Database,Arjun,2026-03-15,2026-03-21,AI Module,Medium,In Progress
+Fix Backup Bug,Divya,2026-05-15,2026-05-21,Web Portal,Low,To Do
+Update Cache Documentation,Sneha,2026-05-05,2026-05-08,Data Pipeline,High,Completed
+Fix Authentication Bug,Priya,2026-04-20,2026-05-14,ERP Upgrade,Medium,To Do
+Configure Cache Settings,Rahul,2026-05-02,2026-05-15,AI Module,Medium,In Progress
+Configure Search Settings,Arjun,2026-04-28,2026-05-22,Mobile App,Medium,Completed
+Migrate Report Database,Rahul,2026-03-11,2026-03-23,Web Portal,Low,In Progress
+Review Authentication Code,Divya,2026-05-06,2026-05-30,Web Portal,Medium,To Do
+Integrate Payment Api,Arjun,2026-04-16,2026-05-05,ERP Upgrade,High,In Progress
+Implement Api Feature,Sneha,2026-04-08,2026-05-06,ERP Upgrade,Medium,Completed
+Test Login Component,Gokul,2026-03-20,2026-04-06,Mobile App,Medium,In Progress
+Migrate Analytics Database,Sneha,2026-04-29,2026-05-17,ERP Upgrade,Low,In Progress
+Review Report Code,Gokul,2026-05-04,2026-05-14,Cloud Migration,High,To Do
+Analyze Backup Data,Meena,2026-04-11,2026-05-11,CRM System,Low,To Do
+Optimize Report Performance,Meena,2026-04-20,2026-05-17,ERP Upgrade,Low,In Progress
+Refactor Api Logic,Karthik,2026-05-07,2026-05-15,Cloud Migration,Low,Completed
+Setup Payment Environment,Meena,2026-04-15,2026-05-12,Data Pipeline,High,Completed
+Optimize Analytics Performance,Sneha,2026-03-20,2026-04-14,Data Pipeline,Medium,In Progress
+Review Search Code,Divya,2026-03-21,2026-03-28,Data Pipeline,Low,Completed
+Review Authentication Code,Arjun,2026-03-19,2026-04-04,ERP Upgrade,High,In Progress
+Fix Profile Bug,Meena,2026-04-06,2026-05-05,Web Portal,High,In Progress
+Update Cache Documentation,Gokul,2026-04-28,2026-05-16,Cloud Migration,Low,To Do
+Fix Search Bug,Karthik,2026-05-18,2026-06-13,Cloud Migration,Medium,To Do
+Configure Profile Settings,Sneha,2026-04-14,2026-04-30,Web Portal,High,In Progress
+Design Authentication Module,Divya,2026-05-01,2026-05-27,ERP Upgrade,Low,To Do
+Setup Payment Environment,Arjun,2026-03-14,2026-03-29,AI Module,Low,Completed
+Implement Analytics Feature,Karthik,2026-04-03,2026-04-07,Mobile App,Medium,In Progress
+Update Export Documentation,Sneha,2026-04-23,2026-05-20,Web Portal,Medium,In Progress
+Deploy Scheduler Service,Karthik,2026-05-10,2026-05-13,Data Pipeline,High,Completed
+Integrate Login Api,Divya,2026-03-19,2026-04-15,Mobile App,Low,Completed
+Analyze Login Data,Sneha,2026-03-30,2026-04-09,Mobile App,High,Completed
+Optimize Analytics Performance,Priya,2026-05-09,2026-06-03,AI Module,High,In Progress
+Analyze Export Data,Arjun,2026-03-25,2026-04-21,AI Module,Low,Completed
+Deploy Dashboard Service,Gokul,2026-04-28,2026-05-13,Data Pipeline,Low,Completed
