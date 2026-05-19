@@ -212,6 +212,4 @@ Built as part of a Software Engineer Internship assignment.
 
 ---
 
-## 📄 License
 
-MIT License
